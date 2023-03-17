@@ -1,1 +1,1 @@
-FROM drzawlinmg/stable:gdrivex.testre
+FROM drzawlinmg/stable:gdrivex.korera
